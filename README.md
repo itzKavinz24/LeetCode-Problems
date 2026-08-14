@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1514-path-with-maximum-probability/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
 <!---LeetCode Topics End-->
