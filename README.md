@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
