@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
+| [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
+| [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Math
@@ -109,10 +111,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
+| [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
+| [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
 | ------- | ------- |
