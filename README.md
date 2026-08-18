@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [0994-rotting-oranges](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [0886-possible-bipartition](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0886-possible-bipartition/) | Medium |
 | [0994-rotting-oranges](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
