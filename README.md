@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
+| [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0684-redundant-connection](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## K Shortest Path
 | Problem Name | Difficulty |
