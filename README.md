@@ -18,12 +18,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1514-path-with-maximum-probability](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
 | [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
+| [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -177,4 +181,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 <!---LeetCode Topics End-->
