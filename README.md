@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0684-redundant-connection](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
@@ -53,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -94,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -104,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -128,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
+| [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
 ## Bidirectional Search
@@ -155,4 +162,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
