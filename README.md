@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
+| [0980-unique-paths-iii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0980-unique-paths-iii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -213,4 +215,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0126-word-ladder-ii/) | Hard |
+| [0980-unique-paths-iii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0980-unique-paths-iii/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0980-unique-paths-iii/) | Hard |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
