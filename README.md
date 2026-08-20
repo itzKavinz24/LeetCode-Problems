@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0174-dungeon-game](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0174-dungeon-game](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0741-cherry-pickup/) | Hard |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0174-dungeon-game](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0741-cherry-pickup/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
