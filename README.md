@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
@@ -205,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0126-word-ladder-ii/) | Hard |
 <!---LeetCode Topics End-->
