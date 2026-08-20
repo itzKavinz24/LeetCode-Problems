@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2054-two-best-non-overlapping-events/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -191,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2054-two-best-non-overlapping-events/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
