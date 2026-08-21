@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2054-two-best-non-overlapping-events/) | Medium |
+| [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0886-possible-bipartition](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0886-possible-bipartition/) | Medium |
+| [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+| [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0886-possible-bipartition/) | Medium |
+| [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1514-path-with-maximum-probability](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2045-second-minimum-time-to-reach-destination/) | Hard |
+| [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
 | [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
+| [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -232,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
 <!---LeetCode Topics End-->
