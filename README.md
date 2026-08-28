@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2054-two-best-non-overlapping-events/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0400-nth-digit](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,4 +246,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
