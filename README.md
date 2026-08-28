@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0210-course-schedule-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0210-course-schedule-ii/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0264-ugly-number-ii/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0400-nth-digit](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -257,9 +260,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Bézout's Lemma
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
+## Extended Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
