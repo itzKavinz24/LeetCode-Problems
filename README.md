@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0400-nth-digit](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0400-nth-digit](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
