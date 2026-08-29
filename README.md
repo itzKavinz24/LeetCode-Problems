@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0400-nth-digit](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
+| [0507-perfect-number](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Game Theory
