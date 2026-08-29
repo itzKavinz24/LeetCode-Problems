@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0400-nth-digit](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0878-nth-magical-number](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0878-nth-magical-number/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0400-nth-digit](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0507-perfect-number](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0507-perfect-number/) | Easy |
+| [0878-nth-magical-number](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0878-nth-magical-number/) | Hard |
 | [1563-stone-game-v](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Game Theory
@@ -276,4 +278,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0365-water-and-jug-problem/) | Medium |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0878-nth-magical-number](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0878-nth-magical-number/) | Hard |
+## Inclusion-Exclusion Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0878-nth-magical-number](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0878-nth-magical-number/) | Hard |
 <!---LeetCode Topics End-->
