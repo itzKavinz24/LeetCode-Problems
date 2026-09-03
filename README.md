@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0264-ugly-number-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -296,4 +298,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
