@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0480-sliding-window-median](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
+| [0763-partition-labels](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 | [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2368-reachable-nodes-with-restrictions](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2368-reachable-nodes-with-restrictions/) | Medium |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
+| [0763-partition-labels](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0763-partition-labels](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,4 +324,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0763-partition-labels](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0763-partition-labels/) | Medium |
 <!---LeetCode Topics End-->
