@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0174-dungeon-game](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [0264-ugly-number-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0126-word-ladder-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
@@ -286,4 +288,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0878-nth-magical-number](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0878-nth-magical-number/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
