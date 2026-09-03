@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0174-dungeon-game](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0174-dungeon-game/) | Hard |
 | [0399-evaluate-division](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0399-evaluate-division/) | Medium |
+| [0480-sliding-window-median](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0542-01-matrix](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0741-cherry-pickup/) | Hard |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0480-sliding-window-median](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0127-word-ladder/) | Hard |
 | [0264-ugly-number-ii](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0480-sliding-window-median](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0752-open-the-lock](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0752-open-the-lock/) | Medium |
 | [0815-bus-routes](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0815-bus-routes/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -310,4 +313,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0480-sliding-window-median](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0480-sliding-window-median](https://github.com/itzKavinz24/LeetCode-Problems/tree/main/0480-sliding-window-median/) | Hard |
 <!---LeetCode Topics End-->
